@@ -1,6 +1,6 @@
 # Tela de Login - Projeto JavaScript
 
-Este é um projeto simples de tela de login desenvolvido com **HTML**, **CSS** e **JavaScript**, como parte de um exercício de curso.
+Este é um projeto desenvolvido com **HTML**, **CSS** e **JavaScript**, como parte de um exercício de curso.
 
 ## 🔐 Funcionalidades
 
